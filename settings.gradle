@@ -1,0 +1,3 @@
+rootProject.name = 'Xmi'
+include 'Xmi-Core'
+include 'Xmi-Base'
